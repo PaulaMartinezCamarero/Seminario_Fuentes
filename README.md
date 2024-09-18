@@ -4,7 +4,7 @@
 
 Nuestro seminario se basa en relacionar algunos factores de riesgo del ictus con el desarrollo de esta patología; para ello trabajaremos fundamentalmente con los ingresos por ictus en hospitales castellano-leoneses.
 
-Disponemos de x conjuntos de datos,
+Disponemos de x conjuntos de datos, 
 
 ## Objetivos
 * Estudiar el impacto que tienen la edad y el sexo en la probabilidad de sufrir un ictus.
